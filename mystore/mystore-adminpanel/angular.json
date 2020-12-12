@@ -121,6 +121,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "mystore-adminpanel"
+    }
+  },
+  "defaultProject": "mystore-adminpanel",
+  "cli": {
+    "analytics": "78f1cf4b-0d8a-4316-9bb6-54684bafa84a"
+  }
 }
